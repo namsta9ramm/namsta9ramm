@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi It's KYOUNG HYUN's github 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namsta9ramm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsta9ramm)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsta9ramm&show_icons=true&theme=radical)
 
 <!--
 **namsta9ramm/namsta9ramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
